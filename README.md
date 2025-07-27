@@ -16,7 +16,7 @@ This is a simple Minecraft plugin for Spigot/Paper that automatically removes OP
 No official support. You may create an issue on GitHub if needed.
 
 ## 🧪 Compatibility
-Tested on Spigot and Paper servers from 1.13 to 1.20+
+Tested on Spigot and Paper servers from 1.13 to 1.21+
 
 ---
 
